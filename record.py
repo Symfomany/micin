@@ -6,7 +6,7 @@ import wavio
 RATE = 16000  # Taux d'échantillonnage (16KHz)
 CHANNELS = 1  # Mono
 DTYPE = np.int16  # 16 bits
-SECONDS = 5  # Durée de l'enregistrement, ici 5 secondes. Vous pouvez le modifier.
+SECONDS = 10  # Durée de l'enregistrement, ici 5 secondes. Vous pouvez le modifier.
 
 # Enregistrement
 print("Enregistrement...")
